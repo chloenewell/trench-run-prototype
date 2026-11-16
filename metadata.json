@@ -1,0 +1,6 @@
+{
+  "name": "TRENCH RUN: When an Island Explodes",
+  "description": "A Grade 4 cyberpunk 3D reading comprehension adventure teaching cause-and-effect relationships (CCSS.ELA-Literacy.RI.4.3) through interactive instruction and three arcade mini-games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
